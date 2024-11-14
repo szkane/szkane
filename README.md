@@ -8,6 +8,12 @@ Hey there! 😄 I'm Kane, a tech-savvy Product Manager and Co-founder of Yopoint
 - **Angel Investors**: With multiple rounds of funding under my belt, I’m not just a dreamer, but a doer with a golden touch! 💲✨
 - **High-Talent in Shenzhen**: If you ever need someone who's up at the crack of dawn for tech challenges, that’s me! 🌞
 
+## Research Interests 🧠
+
+- **AI Applications**: Where machine learning meets magic! 🪄
+- **B2B Industry Digitalization SaaS**: Bringing tech to the enterprise game, making it fun and simple. 💼📈
+- **Automated Vending Machines**: Because why carry your lunch when you can have it delivered by a machine? 🍔🤖
+
 ## Tech Stack 🔧
 
 - **Languages & Frameworks**:
@@ -15,12 +21,6 @@ Hey there! 😄 I'm Kane, a tech-savvy Product Manager and Co-founder of Yopoint
   - JavaScript 🥘: If you can't trust your code, who can you trust?
   - HTML/CSS 💻: The backbone of the internet, and no one knows that better than me!
   - Bash 🦄: Because every great wizard needs a solid wand.
-
-## Research Interests 🧠
-
-- **AI Applications**: Where machine learning meets magic! 🪄
-- **B2B Industry Digitalization SaaS**: Bringing tech to the enterprise game, making it fun and simple. 💼📈
-- **Automated Vending Machines**: Because why carry your lunch when you can have it delivered by a machine? 🍔🤖
 
 ---
 
