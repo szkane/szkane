@@ -1,6 +1,6 @@
 # 🚀 About Me
 
-Hey there! 😄 I'm Kane, a tech-savvy Product Manager and Co-founder of Yopoint. Think of me as the bridge between code and creativity! 🧠💻 
+Hey there! 😄 I'm Kane, I'm a tech-savvy PM and Co-founder at Yopoint, driving SaaS and IoT innovation in the FMCG vending machine industry | Now ❤️ focused on AI & Web3. Think of me as the bridge between code and creativity! 🧠💻 
 
 ## A Brief Career Journey 🚜
 
