@@ -21,26 +21,13 @@ Deep in **Product-Market Fit** mode – bridging the gap between AI technology a
 
 *Patents assigned to the company I previously co-founded Shenzhen YoPoint Smart Business Technology Co., Ltd.*
 
-- 🧠 **Multi-mode Large Language Model Training Method and System for Retail Scenes**
-  *(面向零售场景的多模态大语言模型训练方法及系统)* [Patent No. CN120672248A](https://patents.google.com/patent/CN120672248A/)
-  
-- 👁️ **Multi-target Commodity Identification Method Based on Multi-mode Data Processing**
-  *(基于多模态数据处理的多目标商品识别方法)* [Patent No. CN120236155B](https://patents.google.com/patent/CN120236155B/)
-  
-- 🛍️ **Method and Device for Order Generation Based on Product Trajectory Segmentation**
-  *(基于商品轨迹分段的订单生成方法)* [Patent No. CN113780248B](https://patents.google.com/patent/CN113780248B/)
-  
-- 📹 **Intelligent Order Generation Method Based on Video Segmentation Processing**
-  *(基于视频分段处理的智能订单生成方法)* [Patent No. CN113763136A](https://patents.google.com/patent/CN113763136A/)
-  
-- 🔄 **Order Generation Method for Synchronous Identification of Commodities from Different Perspectives**
-  *(异视角同步识别同区域商品的订单生成方法)* [Patent No. CN113723383A](https://patents.google.com/patent/CN113723383A/)
-  
-- 🔍 **Order Generation Method Based on Multi-view Image Comparison Detection**
-  *(基于多视角图像比对检测的订单生成方法)* [Patent No. CN114648715B](https://patents.google.com/patent/CN114648715B/)
-  
-- 🛒 **Automatic Vending Method and System**
-  *(自动售货方法及系统)* [Patent No. CN107403355A](https://patents.google.com/patent/CN107403355A/)
+- 🧠 **Multi-mode Large Language Model Training Method and System for Retail Scenes**  [Patent No. CN120672248A](https://patents.google.com/patent/CN120672248A/)
+- 👁️ **Multi-target Commodity Identification Method Based on Multi-mode Data Processing** [Patent No. CN120236155B](https://patents.google.com/patent/CN120236155B/)
+- 🛍️ **Method and Device for Order Generation Based on Product Trajectory Segmentation** [Patent No. CN113780248B](https://patents.google.com/patent/CN113780248B/)
+- 📹 **Intelligent Order Generation Method Based on Video Segmentation Processing** [Patent No. CN113763136A](https://patents.google.com/patent/CN113763136A/)
+- 🔄 **Order Generation Method for Synchronous Identification of Commodities from Different Perspectives** [Patent No. CN113723383A](https://patents.google.com/patent/CN113723383A/)
+- 🔍 **Order Generation Method Based on Multi-view Image Comparison Detection** [Patent No. CN114648715B](https://patents.google.com/patent/CN114648715B/)
+- 🛒 **Automatic Vending Method and System** [Patent No. CN107403355A](https://patents.google.com/patent/CN107403355A/)
 
 ## A Brief Career Journey 🚜
 
