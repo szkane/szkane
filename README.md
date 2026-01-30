@@ -19,7 +19,7 @@ Deep in **Product-Market Fit** mode – bridging the gap between AI technology a
 
 ## Inventions & Patents 🛠️
 
-*Patents assigned to the company I previously co-founded Shenzhen YoPoint Smart Business Technology Co., Ltd.*
+*Patents assigned to the company I previously co-founded Shenzhen YoPoint Smart Retail Technology Co., Ltd.*
 
 - 🧠 **Multi-mode Large Language Model Training Method and System for Retail Scenes**  [Patent No. CN120672248A](https://patents.google.com/patent/CN120672248A/)
 - 👁️ **Multi-target Commodity Identification Method Based on Multi-mode Data Processing** [Patent No. CN120236155B](https://patents.google.com/patent/CN120236155B/)
