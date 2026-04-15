@@ -1,6 +1,6 @@
 ## Hi, I'm Kane 👋
 
-📍 **Shenzhen** | 🤖 **AI & Web3 Product Manager** | 🚀 **Serial Entrepreneur**
+📍 **Shenzhen** | 🤖 **Product Manager** | 🚀 **Serial Entrepreneur**
 
 
 ![AIDev](https://img.shields.io/badge/AI%20Application%20Developer-Model%20Builder-00b894) ![AIHomeTeaching](https://img.shields.io/badge/AI%20HomeTeaching-Helping%20Kids%20Learn-6c5ce7) ![VibeCoding](https://img.shields.io/badge/Vibe%20Coding-flow%20state-ff69b4) ![SaaS](https://img.shields.io/badge/SaaS-Builder-blueviolet) ![INTJ](https://img.shields.io/badge/MBTI-INTJ-blue) 
