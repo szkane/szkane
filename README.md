@@ -11,7 +11,7 @@ Deep in **Product-Market Fit** mode – bridging the gap between AI technology a
 
 ## Current Projects
 
-- 🎯 **[SoloOKRs](https://github.com/szkane/SoloOKRs)** - An MacOS native App designed for individuals who want a focused, distraction-free environment to set, track, and reflect on their personal goals.
+- 🎯 **[SoloOKRs](https://github.com/szkane/SoloOKRs)** - An MacOS native App designed for OPC (One Person Company) founders and individuals who want a focused, distraction-free environment to set, track, and reflect on their personal goals. A tool that helps align your goals with AI assistants so they can help you set objectives, track progress, complete key results, and conduct retrospectives.
 - 🌐 **[ClashRuleSet](https://github.com/szkane/ClashRuleSet)** - Optimized traffic rules for AI services, Web3 apps, and Dev tools.
 - ✍️ **[PopclipGemini](https://github.com/szkane/PopclipGemini)** - AI writing assistant on your cursor, powered by Gemini.
 - 🧠 **[CN-AI-Trainer](https://github.com/szkane/CN-AI-Trainer)** - Knowledge base for National AI Trainer Certification (Level 3).
