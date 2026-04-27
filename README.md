@@ -1,4 +1,4 @@
-## Hi, I'm Kane 👋
+## Hi, I'm Kane (Junbo Qiu) 👋
 
 📍 **Shenzhen** | 🤖 **Product Manager** | 🚀 **Serial Entrepreneur**
 
